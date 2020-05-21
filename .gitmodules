@@ -1,0 +1,3 @@
+[submodule "internal/sub2"]
+	path = internal/sub2
+	url = https://github.com/kalbag/sub2
